@@ -20,12 +20,12 @@ An interactive AI-powered educational platform that generates lessons, questions
 ### For Everyone Else:
 1. Clone the repository (Requires Git)
 ```
-git clone https://github.com/PLU706/ai-teaching-program.git
+git clone https://github.com/3rror-dev/AI-Teaching-Master.git
 cd ai-teaching-program
 ```
 
 2. Set up environment variables
-- Go to (https://aistudio.google.com/app/apikey)[https://aistudio.google.com/app/apikey] and generate an API key
+- Go to https://aistudio.google.com/app/apikey and generate an API key
 - Go into .env file and replace "[YOUR GEMINI API KEY HERE]" with your API key.
 
 4. Run auto-open shortcut
@@ -38,7 +38,7 @@ Upon opening the app, you will be met with a login page. The password is `study1
 ### For Experts:
 1. Clone the repository (Requires Git)
 ```
-git clone https://github.com/PLU706/ai-teaching-program.git
+git clone https://github.com/3rror-dev/AI-Teaching-Master.git
 cd ai-teaching-program
 ```
 
