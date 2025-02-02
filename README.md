@@ -24,11 +24,15 @@ git clone https://github.com/PLU706/ai-teaching-program.git
 cd ai-teaching-program
 ```
 
-2. Run auto-open shortcut
+2. Set up environment variables
+- Go to (https://aistudio.google.com/app/apikey)[https://aistudio.google.com/app/apikey] and generate an API key
+- Go into .env file and replace "[YOUR GEMINI API KEY HERE]" with your API key.
+
+4. Run auto-open shortcut
 Find the shortcut named `AI Teaching Master` and open it.
 At first the web will say the website is unavaliable. Wait for a few moments and it will open.
 
-3. Using the app
+5. Using the app
 Upon opening the app, you will be met with a login page. The password is `study123!`.
 
 ### For Experts:
@@ -50,8 +54,8 @@ pip install -r requirements.txt
 ```
 
 4. Set up environment variables
-- Create a `.env` file
-- Add your Gemini API key: `GEMINI_API_KEY=your_api_key_here`
+- Go to (https://aistudio.google.com/app/apikey)[https://aistudio.google.com/app/apikey] and generate an API key
+- Go into .env file and replace "[YOUR GEMINI API KEY HERE]" with your API key.
 
 #### Running the Application
 ```
